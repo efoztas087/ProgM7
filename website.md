@@ -1,7 +1,4 @@
 # ProgM7
-
-Natuurlijk! Hier is een hele korte samenvatting:
-
 Onderwerp en Doel van de Website
 De website is een receptenplatform waar gebruikers hun favoriete recepten kunnen posten en deze ook kunnen doorbladeren. Het doel is om mensen te verzamelen die van koken houden en zelf inspiratie willen hebben.
 
@@ -21,4 +18,3 @@ Waardering: De mogelijkheid om recepten in sterren te beoordelen.
 
 Stijl / Look & Feel
 De website heeft een nieuwe, makkelijk bereikbare uitstraling met aardetinten en grote foto’s van gerechten. Het design is modern en responsive, dus desktop en mobiel vriendelijk.
-![image](https://github.com/user-attachments/assets/b931e9d5-db05-405e-85c6-6ad94d1fe28d)
